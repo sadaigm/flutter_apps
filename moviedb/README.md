@@ -16,6 +16,12 @@ It's also executed in Micromax Q402 using flutter run --release
 #### dart file size
 It contains main.dart which is 4719 Bytes of size and it contains assets inside the project under assets directory. the input JSON file is under assets/data directory and the image assets are under assets/images directory.
 
+### Repository Location:
+https://github.com/sadaigm/flutter_apps/tree/master/moviedb
+
+#### License 
+MIT License
+
 
 
 
